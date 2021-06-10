@@ -1,3 +1,4 @@
+RandomNo. game!!!
 It's a full number guessing game.
 Users just have to give the input and if it's the right number... poof! "you're a winner....!".
 But if not then it will print if the given real number is "smaller or bigger". 
