@@ -1,2 +1,2 @@
-# mini-game
+#python
 Python :- mini-games
